@@ -1,0 +1,19 @@
+ h1{ text-align: center;
+}
+body{
+     border-color: black;
+     background-image: image('C:\Users\sikir\Downloads\logo_enspd.png');
+}
+footer{background-color: #1a1a1a;
+padding: -25px 100px;
+color: #828282;
+margin: -10px;;
+font-language-override: normal;
+;
+
+}
+footer.colonnes {display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+     background-position: unset;
+     }
